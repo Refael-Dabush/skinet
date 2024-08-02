@@ -2,7 +2,7 @@ namespace Core.Entities
 {
     public class Product
     {
-        // [Key]
+        // [Key] //
         public int Id { get; set; }
         public int Name { get; set; }
     }
